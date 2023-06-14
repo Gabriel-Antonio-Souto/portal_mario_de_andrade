@@ -11698,3 +11698,17 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+/* Barra */
+body::-webkit-scrollbar {
+  width: 12px;
+}
+
+body::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #757575;
+  border: 3px solid transparent;
+}
