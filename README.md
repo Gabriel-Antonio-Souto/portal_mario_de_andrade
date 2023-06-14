@@ -4,7 +4,7 @@
 
 Portal dedicado a falar sobre o modernista Mário de Andrade.
 
-Trabalho em grupo de português sobre o modernista Mário de Andrade.
+Trabalho em grupo para a matéria de português sobre o modernista Mário de Andrade.
 
 
 # Tecnologias utilizadas
